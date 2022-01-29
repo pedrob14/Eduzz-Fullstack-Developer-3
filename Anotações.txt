@@ -1,0 +1,7 @@
+-Lógica de programação Essencial
+    -Introdução à lógica e à programação
+	- Softwares
+    	Flowgorithm
+	- Exercícios feitos
+    	https://studio.code.org/s/mc/stage/1/puzzle/
+        https://rachacuca.com.br/jogos/pinguins-numa-fria/
