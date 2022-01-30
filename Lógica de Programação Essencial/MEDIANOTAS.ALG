@@ -9,17 +9,23 @@ Var
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
-    escreval("Digite o nome do aluno")
+    escreva("Digite o nome do aluno: ")
     leia(aluno)
-    escreval("Digite a nota 1")
+    escreva("Digite a nota 1: ")
     leia(nota1)
-    escreval("Digite a nota 2")
+    escreva("Digite a nota 2: ")
     leia(nota2)
-    escreval("Digite a nota 3")
+    escreva("Digite a nota 3: ")
     leia(nota3)
-    escreval("Digite a nota 4")
+    escreva("Digite a nota 4: ")
     leia(nota4)
     media <- (nota1 + nota2 + nota3 + nota4) / 4
-    escreval("A média do aluno " + aluno + " é de: ", media)
+    escreval("A média do aluno " + aluno + " é de:", media)
+    // verifica se a média é maior ou igual a 7
+    se media >= 7 ENTAO
+    escreva("Parabéns, você foi aprovado")
+    SENAO
+    escreva("Infelizmente você foi reprovado!")
+    FIMSE
 
 Fimalgoritmo
