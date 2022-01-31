@@ -5,3 +5,6 @@
 	- Exercícios feitos
     	https://studio.code.org/s/mc/stage/1/puzzle/
         https://rachacuca.com.br/jogos/pinguins-numa-fria/
+    - Introdução ao Portugol
+    	- Uso do Se e Fimse
+    	- Uso do Switch-case no Visualg com as funções escolha, caso, outrocaso e fimescolha
