@@ -8,3 +8,10 @@
     - Introdução ao Portugol
     	- Uso do Se e Fimse
     	- Uso do Switch-case no Visualg com as funções escolha, caso, outrocaso e fimescolha
+    - Matriz
+    	É uma coleção de variáveis do mesmo tipo, com um único nome
+    - Índices
+    	Individualização de cada variável de um vetor
+    - Vetores
+    	São matrizes de uma só dimensão
+    
